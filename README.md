@@ -1,6 +1,8 @@
 # KanbanFire
+This is the cloned repo for test purposes
 
 https://github.com/FirebaseExtended/codelab-kanban-fire
+
 https://developers.google.com/codelabs/building-a-web-app-with-angular-and-firebase#5
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.9.
